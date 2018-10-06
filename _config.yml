@@ -81,11 +81,11 @@ analytics:
 author:
   name             : "Xi Peng"
   avatar           : "dsc_0013crop_800x800.jpg"
-  bio              : "Assistant Professor\nComputer Science\nBinghamton University\nState University of New York"
+  bio              : "Assistant Professor, Department of Computer Science, Binghamton University, State University of New York (SUNY)"
   location         : 
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=DWw4v0kAAAAJ&hl=en"
-  googlesite       : "https://sites.google.com/site/xipengcshomepage/"
+  homepage         : "https://sites.google.com/site/xipengcshomepage/"
   email            : "xpeng@binghamton.edu"
   uri              :
   bitbucket        :
@@ -95,7 +95,7 @@ author:
   facebook         :
   foursquare       :
   github           : 
-  google_plus      :
+  google_plus      :  "https://sites.google.com/site/xipengcshomepage/"
   keybase          :
   instagram        :
   lastfm           :
