@@ -15,8 +15,8 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "[CV](https://xipeng13.github.io/homepage/files/CV.pdf)"
-    url: https://xipeng13.github.io/homepage/files/CV.pdf
+  - title: "CV"
+    url: cv/
     
   #- title: "Guide"
   #  url: /markdown/
