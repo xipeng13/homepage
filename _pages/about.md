@@ -18,7 +18,7 @@ My research intends to explore the frontier of [Efficient & General & Robust AI]
 Looking for Prospective Ph.D. Students
 ======
 
-![image](/files/PhD3.pdf)
+[image](/files/PhD3.pdf)
 
 
 
