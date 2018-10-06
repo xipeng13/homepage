@@ -9,51 +9,46 @@ redirect_from:
 
 {% include base_path %}
 
+- A full list of my [**Publications**](https://xipeng13.github.io/homepage/files/PUBLICATION.pdf)
+- A detailed [**CV**](https://xipeng13.github.io/homepage/files/CV.pdf)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computer Science, Rutgers University, 2012-2017
+* M.S. in Computer Science, Chinese Academy of Science, 2008-2011
+* B.S. in Automation Science, Beihang University, 2004-2008
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Binghamton University - State University of New York
+  * Assistant Professor
+  * Department of Computer Science
+  * Sep 2018 - Now
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Rutgers University, The State University of New Jersey
+  * Visiting Professor
+  * Department of Computer Science
+  * Oct 2018 - Apr 2020
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* NEC Labs America, California
+  * Research Intern
+  * Media Analytics Group
+  * Jun 2016 - Aug 2016
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* IBM T.J.Watson Research Center, New York
+  * Research Intern
+  * Vision Group
+  * Jun 2015 - Dec 2015
+  
+* Baidu Research, Beijing
+  * Software Engineer
+  * NLP Group
+  * Jul 2011 - Jul 2012
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* CS436/CS580L, Intro to Machine Learning, 2018 Fall
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* I served as Editor, Journal Reviewer, and Conference Program Committee for TPAMI, IJCV, TIP, ICLR, NIPS, CVPR, ICCV, ECCV, AAAI, IJCAI. I have reviewed >100 papers in the past four years.
