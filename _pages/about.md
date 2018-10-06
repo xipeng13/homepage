@@ -60,7 +60,7 @@ More info about configuring academicpages can be found in [the guide](https://ac
 
 
 
-[image](/files/PhD3.pdf)
+[image](https://xipeng13.github.io/homepage/files/PhD3.pdf)
 
 
 
