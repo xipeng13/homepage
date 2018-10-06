@@ -18,6 +18,7 @@ My research intends to explore the frontier of [Efficient & General & Robust AI]
 
 Ph.D. Positions at Binghamton University
 ======
+- Deep Learning, Machine Learning, Computer Vision
 - 2x Ph.D. Positions are availabel;
 - Start from 2019 fall;
 - Fully supported.
