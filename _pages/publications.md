@@ -1,9 +1,10 @@
 ---
 layout: archive
 title: "Publications"
-#permalink: /publications/
+permalink: /publications/
 author_profile: true
 ---
+Hello world
 ![PUB1](https://xipeng13.github.io/homepage/images/PUBLICATION-1.jpg)
 ![PUB2](https://xipeng13.github.io/homepage/images/PUBLICATION-2.jpg)
 
