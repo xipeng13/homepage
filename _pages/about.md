@@ -19,6 +19,6 @@ Looking for Prospective Ph.D. Students
 ======
 
 ![image](/files/PhD3.pdf)
-[pdf]([I](/images/PhD3.jpg))
+[pdf](/images/PhD3.jpg))
 
 
