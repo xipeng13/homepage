@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/
+#permalink: /publications/
 author_profile: true
 ---
 ![PUB1](https://xipeng13.github.io/homepage/images/PUBLICATION-1.jpg)
