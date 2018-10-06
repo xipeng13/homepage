@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-This is a mini homepage in case you can't access Google. Please check [My Google Site](https://sites.google.com/site/xipengcshomepage/) and [My Google Scholar](https://scholar.google.com/citations?user=DWw4v0kAAAAJ&hl=en) for detailed information.
+This is a mini homepage in case you can't access [My Google Site](https://sites.google.com/site/xipengcshomepage/).
+- A list of my [**Publications**](https://xipeng13.github.io/homepage/files/PUB.pdf)
+- A detailed [**CV**](https://xipeng13.github.io/homepage/files/CV.pdf)
 
 I joined [Department of Computer Science](https://www.binghamton.edu/computer-science/index.html) at [Binghamton University - State University of New York](https://www.binghamton.edu/) in 2018. My new position is the tenure-track assistant professor. I am also a visiting professor in [Department of Computer Science](https://www.cs.rutgers.edu/) at [Rutgers, The State University of New Jersey](https://www.rutgers.edu/) since 2018.
 
