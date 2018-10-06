@@ -37,13 +37,13 @@ Experience
   
 Invited Talks
 ======
-* “Reduce data and human efforts toward more efficient AI”, at CUNY Graduate Center, New York, Jun 2018
-* “Learning data augmentation and disentanglement for efficient AI”, at Steven Institute of Technology, New Jersey, May 2018
-* “Reduce data efforts for more efficient AI”, at Binghamton University, New York, Apr 2018
-* “Learning disentangled representations for deep understanding”, at MIT-IBM Watson AI Lab, Massachusetts, Feb 2018
+* “Reduce data and human efforts toward more efficient AI”, at CUNY Graduate Center, Jun 2018
+* “Learning data augmentation and disentanglement for efficient AI”, at Steven Institute of Technology, May 2018
+* “Reduce data efforts for more efficient AI”, at Binghamton University, Apr 2018
+* “Learning disentangled representations for deep understanding”, at MIT-Watson AI Lab, Massachusetts, Feb 2018
 * “Learning disentangled representations for deep understanding”, at IBM T. J. Watson Research Center, New York, Jan 2018
 * “Self-supervised disentanglement learning via feature reconstruction”, at ICCV’17 Doctoral Consortium, Venice, Italy, Oct 2017
-* “Deep visual understanding: methods and applications”, at Rutgers Thesis Defense, New Jersey, Oct 2017
+* “Deep visual understanding: methods and applications”, at Rutgers Thesis Defense, Oct 2017
 * “Learning face recognition from limited training data”, at ICPR’16 Oral Presentation, Cancun, Mexico, Dec 2016
 * “A recurrent encoder-decoder network for sequential face alignment”, at ECCV’16 Oral Presentation, Amsterdam, Netherlands, Oct 2016
 * “Large-pose face recognition by feature disentanglement”, at NEC Labs America, Califorlia, Aug 2016
@@ -65,6 +65,6 @@ Teaching
 ======
 * CS436/CS580L, Intro to Machine Learning, 2018 Fall
   
-Service and leadership
+Service
 ======
 * I served as Editor, Journal Reviewer, and Conference Program Committee for TPAMI, IJCV, TIP, ICLR, NIPS, CVPR, ICCV, ECCV, AAAI, IJCAI. I have reviewed >100 papers in the past four years.
