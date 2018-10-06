@@ -1,16 +1,24 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Short Bio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+This is my mini homepage in case you can't access Google. Please check [My Google Site](https://sites.google.com/site/xipengcshomepage/) and [My Google Scholar](https://scholar.google.com/citations?user=DWw4v0kAAAAJ&hl=en) for detailed information.
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I joined department of computer science at Binghamton University in fall 2018. My new position is tenure-track assistant professor.
 
-A data-driven personal website
+I obtained the Ph.D. degree from [Rutgers University](https://www.cs.rutgers.edu/) (2012-2017), the M.S. degree from [Chinese Academy of Sciences](http://www.ia.cas.cn/) (2008-2011), and the B.S. degree from [Beihang University](http://dept3.buaa.edu.cn/) (2004-2008).
+
+I enjoyed two research internships in NEC Labs America (2016 summer) and IBM T.J. Watson (2015 summer/fall). I also spent a wonderful year as a full-time engineer in Baidu Research (2011-2012).
+
+My research intends to explore Efficient & General & Robust AI. Research areas are Deep Learning, Machine Learning, and Computer Vision.
+
+
+Ph.D. Positions are Available
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
