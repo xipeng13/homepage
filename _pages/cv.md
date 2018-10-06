@@ -37,17 +37,17 @@ Experience
   
 Invited Talks
 ======
-* “Reduce data and human efforts toward more efficient AI”, at CUNY Graduate Center, NYC, Jun 2018
+* “Reduce data and human efforts toward more efficient AI”, at CUNY Graduate Center, NY, Jun 2018
 * “Learning data augmentation and disentanglement for efficient AI”, at Steven Institute of Technology, NJ, May 2018
 * “Reduce data efforts for more efficient AI”, at Binghamton University, NY, Apr 2018
 * “Learning disentangled representations for deep understanding”, at MIT-Watson AI Lab, MA, Feb 2018
-* “Learning disentangled representations for deep understanding”, at IBM T. J. Watson Research Center, NY, Jan 2018
+* “Learning disentangled representations for deep understanding”, at IBM Watson Research Center, NY, Jan 2018
 * “Self-supervised disentanglement learning via feature reconstruction”, at ICCV’17 Doctoral Consortium, Italy, Oct 2017
 * “Deep visual understanding: methods and applications”, at Rutgers Thesis Defense, Oct 2017
 * “Learning face recognition from limited training data”, at ICPR’16 Oral Presentation, Mexico, Dec 2016
 * “A recurrent encoder-decoder network for sequential face alignment”, at ECCV’16 Oral Presentation, Netherlands, Oct 2016
-* “Large-pose face recognition by feature disentanglement”, at NEC Labs America, CA, Aug 2016
-* “Deep face recognition using limited training data”, at IBM T. J. Watson Research Center, NY, Aug 2015
+* “Disentangle subject and viewpoint by feature reconstruction”, at NEC Labs America, CA, Aug 2016
+* “Robust face verification by semi-supervised alignment”, at IBM Watson Research Center, NY, Aug 2015
 
 Awards
 ======
