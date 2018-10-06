@@ -81,11 +81,11 @@ analytics:
 author:
   name             : "Xi Peng"
   avatar           : "dsc_0013crop_800x800.jpg"
-  bio              : "Assistant Professor"
-  location         : "Location"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  bio              : "Assistant Professor, Department of Computer Science"
+  location         : 
+  employer         : "Binghamton University - State University of New York"
+  googlescholar    : "https://scholar.google.com/citations?user=DWw4v0kAAAAJ&hl=en"
+  email            : "xpeng@binghamton.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -93,19 +93,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
