@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : ""
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Xi Peng"
 description              : &description "personal description"
 url                      : https://xipeng13.github.io/homepage/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -79,7 +79,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xi Peng"
+  name             : "Xi Peng (彭 曦)"
   avatar           : "dsc_0013crop_800x800.jpg"
   bio              : "Assistant Professor Department of Computer Science, Binghamton University, State University of New York (SUNY)"
   location         : 
