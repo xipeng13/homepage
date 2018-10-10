@@ -19,6 +19,7 @@ I enjoyed two research internships in [NEC Labs America](http://www.nec-labs.com
 
 My research intends to explore the frontier of [Efficient & General & Robust AI](https://xipeng13.github.io/homepage/). Research areas include Deep Learning, Machine Learning, and Computer Vision. I have >30 publications in a range of top-ranked journals (_TPAMI, IJCV, TIP, etc_), conferences (_CVPR, ICCV, ECCV, IJCAI, etc_), and patents. 
 
+I started to co-advise multiple [Ph.D. students](https://sites.google.com/site/xipengcshomepage/student) at Rutgers since Nov 2016. Most students published their first top conference papers within one year.
 
 Ph.D. Positions at Binghamton University
 ======
