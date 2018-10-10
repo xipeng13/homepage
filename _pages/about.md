@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-This is a mini personal homepage of me in case you can't access [My Google Site](https://sites.google.com/site/xipengcshomepage/).
+This is a mini personal homepage of me in case you can't access [My Full Google Site](https://sites.google.com/site/xipengcshomepage/).
 - A full list of my [**Publications**](https://xipeng13.github.io/homepage/files/PUBLICATION.pdf)
 - A detailed [**CV**](https://xipeng13.github.io/homepage/files/CV.pdf)
 
