@@ -24,7 +24,7 @@ Experience
   * Assistant Professor, Department of Computer Science, Sep 2018 - Now
 
 * Rutgers University, The State University of New Jersey
-  * Visiting Professor, Department of Computer Science, Oct 2018 - Apr 2020
+  * Visiting Professor, Department of Computer Science, Oct 2018 - Oct 2020
   
 * NEC Labs America, California
   * Research Intern, Media Analytics Group, Jun 2016 - Aug 2016
