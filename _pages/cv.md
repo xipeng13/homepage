@@ -12,59 +12,40 @@ redirect_from:
 - A full list of my [**Publications**](https://xipeng13.github.io/homepage/files/PUBLICATION.pdf)
 - A detailed [**CV**](https://xipeng13.github.io/homepage/files/CV.pdf)
 
+Looking for Ph.D. Students
+======
+I am ALWAYS looking for self-motivated students with:
+* Relevant research experience (e.g. publications on decent conf/trans)
+* Solid GPA records (e.g. top 15% in your major or department)
+* Solid programming skills (e.g. hands on experience in Python/C/C++)
+* Big plus if familiar with Deep Learning tools (e.g. Pytorch/Tensorflow/Caffe)
+* Most important, strong motivation for a Ph.D. degree
+Please feel free to contact me with your CV, Transcripts, and Publications (if applicable).
+
+Short Bio
+======
+* University of Delaware
+  * Assistant Professor, [**Department of Computer & Information Sciences**](https://www.cis.udel.edu/), 2019 -
+  * Resident Faculty, [**Data Science Institute**], 2019 -
+* Rutgers University
+  * Visiting Professor, [**Department of Computer Science**], 2018-2020
+  
 Education
 ======
-* Ph.D in Computer Science, Rutgers University, 2012-2017
-* M.S. in Computer Science, Chinese Academy of Science, 2008-2011
-* B.S. in Automation Science, Beihang University, 2004-2008
+* Ph.D. in Computer Science, Rutgers University, 2012-2018
+* M.S. in Computer Science, Institute of Automation, Chinese Academy of Sciences, 2018-2011
+* B.E. in Automation Science, Beihang University, 2004-2008
 
-Experience
+Research
 ======
-* Binghamton University - State University of New York
-  * Assistant Professor, Department of Computer Science, Sep 2018 - Now
+My research focuses on Structural, Model-Oriented Deep Learning. The goal is to answer the following questions:
+* Can we learn AI systems promptly and adequately when only limited or skewed data are available? (Efficient)
+* Can AI system make robust and safe decisions when training and testing data follow different distributions? (Robust)
+* Can we extend from curve-fitting to model causal inference between data and environment? (Explainable)
 
-* Rutgers University, The State University of New Jersey
-  * Visiting Professor, Department of Computer Science, Oct 2018 - Oct 2020
-  
-* NEC Labs America, California
-  * Research Intern, Media Analytics Group, Jun 2016 - Aug 2016
-  
-* IBM T.J.Watson Research Center, New York
-  * Research Intern, Vision Group, Jun 2015 - Dec 2015
-  
-* Baidu Research, Beijing
-  * Software Engineer, NLP Group, Jul 2011 - Jul 2012
-  
-Invited Talks
-======
-* “Reduce data and human efforts toward more efficient AI”, at CUNY Graduate Center, NY, Jun 2018
-* “Learning data augmentation and disentanglement for efficient AI”, at Steven Institute of Technology, NJ, May 2018
-* “Reduce data efforts for more efficient AI”, at Binghamton University, NY, Apr 2018
-* “Learning disentangled representations for deep understanding”, at MIT-Watson AI Lab, MA, Feb 2018
-* “Learning disentangled representations for deep understanding”, at IBM Watson Research Center, NY, Jan 2018
-* “Self-supervised disentanglement learning via feature reconstruction”, at ICCV’17 Doctoral Consortium, Italy, Oct 2017
-* “Deep visual understanding: methods and applications”, at Rutgers Thesis Defense, Oct 2017
-* “Learning face recognition from limited training data”, at ICPR’16 Oral Presentation, Mexico, Dec 2016
-* “A recurrent encoder-decoder network for sequential face alignment”, at ECCV’16 Oral Presentation, Netherlands, Oct 2016
-* “Disentangle subject and viewpoint by feature reconstruction”, at NEC Labs America, CA, Aug 2016
-* “Robust face verification by semi-supervised alignment”, at IBM Watson Research Center, NY, Aug 2015
-
-Awards
-======
-* IJCV special issue on Best Paper of ECCV’16 2017
-* ICCV 2017 Doctoral Consortium 2017
-* ECCV 2016 Best Student Paper Runner-up (6 out of 1000+) 2016
-* ICPR 2016 Best Student Paper Runner-up 2016
-* Outstanding Graduate Student Fellowship, Rutgers 2013 – 2014
-* Outstanding Graduate Student Fellowship, Rutgers 2012 – 2013
-* The 17th Beihang ”Fengru Cup” Competition Runner-up (26 out of 600+) 2007
-* Excellent Academic Performance Scholarship (Top 1%), Beihang University 2006 – 2005
-* Outstanding Academic Performance Scholarship (Top 5%), Beihang University 2005 – 2004
-
-Teaching
-======
-* CS436/CS580L, Intro to Machine Learning, 2018 Fall
+I am enthusiastic in extending my research to advanced frontier solutions for cross-disciplinary data analytics. Specially, I am making efforts to develop frontier AI solutions for biomechanics, bioinformatics, biochemistry, psychology, and linguistics .
   
 Service
 ======
-* I served as Editor, Journal Reviewer, and Conference Program Committee for TPAMI, IJCV, TIP, ICLR, NIPS, CVPR, ICCV, ECCV, AAAI, IJCAI. I have reviewed >100 papers in the past four years.
+* Program Committee: NIPS, ICML, ICLR, CVPR, ICCV, ECCV, AAAI, IJCAI, ACCV, FG, ACMMM ...
+* Invited Reviewers: TPAMI, IJCV, TNNLS, TIP, THMS, TCSVT, JVCIR, PR, CAG, Neurocomputing, IEEE Access, Sensors ...
