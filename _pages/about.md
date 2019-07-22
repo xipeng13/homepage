@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-This is a mini page of [My Full Homepage](https://sites.google.com/site/xipengcshomepage/). You can get more information of me by [**Publications**](https://xipeng13.github.io/homepage/files/PUBLICATION.pdf) and [**CV**](https://xipeng13.github.io/homepage/files/CV.pdf)
+This is a mini page of [My Full Homepage](https://sites.google.com/site/xipengcshomepage/). You can get more information of me by [**Publications**](https://xipeng13.github.io/homepage/files/PUBLICATION.pdf) and [**CV**](https://xipeng13.github.io/homepage/files/CV.pdf). My research focuses on **Deep Learning, Machine Learning, and Computer Vision**.
 
 I am a tenure-track faculty at University of Delaware:
 - **Assistant Professor**, [Computer & Info Sciences](https://www.cis.udel.edu/), [University of Delaware](https://www.udel.edu/)
