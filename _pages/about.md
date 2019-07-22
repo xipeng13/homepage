@@ -7,19 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-This is a mini homepage of [My Full Google Site](https://sites.google.com/site/xipengcshomepage/).
-- A full list of my [**Publications**](https://xipeng13.github.io/homepage/files/PUBLICATION.pdf)
-- A detailed [**CV**](https://xipeng13.github.io/homepage/files/CV.pdf)
+This is a mini homepage of [My Full Google Site](https://sites.google.com/site/xipengcshomepage/). You can get more information of me by [**Publications**](https://xipeng13.github.io/homepage/files/PUBLICATION.pdf) and [**CV**](https://xipeng13.github.io/homepage/files/CV.pdf)
 
-I am holding following positions:
-- Tenure-track **Assistant Professor**, [Department of Computer & Information Sciences](https://www.cis.udel.edu/), [University of Delaware](https://www.udel.edu/)
+I am a tenure-track faculty at University of Delaware:
+- **Assistant Professor**, [Computer & Info Sciences](https://www.cis.udel.edu/), [University of Delaware](https://www.udel.edu/)
 - **Resident Faculty**, [Data Science Institute](https://dsi.udel.edu/), [University of Delaware](https://www.udel.edu/)
 - **Visiting Professor**, [Department of Computer Science](https://www.cs.rutgers.edu/), [Rutgers University](https://www.rutgers.edu/)
 
-My eduction background:
-- Ph.D. degree from [Rutgers University](https://www.cs.rutgers.edu/) (2012-2017)
-- M.S. degree from [Automation Institute, Chinese Academy of Sciences](http://www.ia.cas.cn/) (2008-2011)
-- B.S. degree from [Beihang University](http://dept3.buaa.edu.cn/) (2004-2008).
+I was awarded Ph.D. degree from [Rutgers University](https://www.cs.rutgers.edu/) in 2018, M.S. degree from [Automation Institute, Chinese Academy of Sciences](http://www.ia.cas.cn/) in 2011, and B.S. degree from [Beihang University](http://dept3.buaa.edu.cn/) in 2008.
 
 Looking for Ph.D. Students
 ======
