@@ -81,8 +81,8 @@ analytics:
 author:
   name             : "Xi Peng, 彭 曦"
   avatar           : "dsc_0013crop_800x800.jpg"
-  bio              : "Assistant Professor"
-  location         : "Department of Computer & Info Sciences"
+  bio              : "Assistant Professor, Computer Science"
+  location         : 
   employer         : "University of Delaware"
   googlescholar    : "https://scholar.google.com/citations?user=DWw4v0kAAAAJ&hl=en"
   email            : "xipeng@udel.edu"
