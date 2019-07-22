@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-This is a mini page of [My Full Homepage](https://sites.google.com/site/xipengcshomepage/). You can get more information of me by [**Publications**](https://xipeng13.github.io/homepage/files/PUBLICATION.pdf) and [**CV**](https://xipeng13.github.io/homepage/files/CV.pdf). My research focuses on **Deep Learning, Machine Learning, and Computer Vision**.
+This is a mini page of [My Full Homepage](https://sites.google.com/site/xipengcshomepage/). You can get more information of me by [**Publications**](https://xipeng13.github.io/homepage/files/PUBLICATION.pdf), [**Google Scholar**](https://scholar.google.com/citations?user=DWw4v0kAAAAJ), and [**CV**](https://xipeng13.github.io/homepage/files/CV.pdf). My research focuses on **Deep Learning, Machine Learning, and Computer Vision**.
 
 I am a tenure-track faculty at University of Delaware:
 - **Assistant Professor**, [Computer & Info Sciences](https://www.cis.udel.edu/), [University of Delaware](https://www.udel.edu/)
@@ -46,6 +46,6 @@ Service
 - Program Committee: **NIPS, ICML, ICLR, CVPR, ICCV, ECCV, AAAI, IJCAI, ACCV, FG, ACMMM ...**
 - Invited Reviewers: **TPAMI, IJCV, TNNLS, TIP, THMS, PR, CAG, Neurocomputing, IEEE Access, Sensors ...**
 
-
+Last Update: July 22, 2019.
 
 
