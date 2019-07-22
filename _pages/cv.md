@@ -20,15 +20,16 @@ I am ALWAYS looking for self-motivated students with:
 * Solid programming skills (e.g. hands on experience in Python/C/C++)
 * Big plus if familiar with Deep Learning tools (e.g. Pytorch/Tensorflow/Caffe)
 * Most important, strong motivation for a Ph.D. degree
+
 Please feel free to contact me with your CV, Transcripts, and Publications (if applicable).
 
 Short Bio
 ======
 * University of Delaware
   * Assistant Professor, [**Department of Computer & Information Sciences**](https://www.cis.udel.edu/), 2019 -
-  * Resident Faculty, [**Data Science Institute**], 2019 -
+  * Resident Faculty, [**Data Science Institute**](https://dsi.udel.edu/), 2019 -
 * Rutgers University
-  * Visiting Professor, [**Department of Computer Science**], 2018-2020
+  * Visiting Professor, Department of Computer Science, 2018-2020
   
 Education
 ======
@@ -48,4 +49,4 @@ I am enthusiastic in extending my research to advanced frontier solutions for cr
 Service
 ======
 * Program Committee: NIPS, ICML, ICLR, CVPR, ICCV, ECCV, AAAI, IJCAI, ACCV, FG, ACMMM ...
-* Invited Reviewers: TPAMI, IJCV, TNNLS, TIP, THMS, TCSVT, JVCIR, PR, CAG, Neurocomputing, IEEE Access, Sensors ...
+* Invited Reviewers: TPAMI, IJCV, TNNLS, TIP, THMS, PR, Neurocomputing ...
