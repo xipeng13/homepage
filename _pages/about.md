@@ -15,9 +15,9 @@ I am a tenure-track faculty at University of Delaware:
 - **Visiting Professor**, [Department of Computer Science](https://www.cs.rutgers.edu/), [Rutgers University](https://www.rutgers.edu/)
 
 My reserach training background: 
-- Ph.D. in Computer Science, [Rutgers University](https://www.cs.rutgers.edu/), 2018
-- M.S. in Computer Science, [Automation Institute, Chinese Academy of Sciences](http://www.ia.cas.cn/), 2011
-- B.E. in Automation Science, [Beihang University](http://dept3.buaa.edu.cn/) in 2008.
+- Ph.D. in Computer Science, [Rutgers University](https://www.cs.rutgers.edu/)
+- M.S. in Computer Science, [Automation Institute, Chinese Academy of Sciences](http://www.ia.cas.cn/)
+- B.E. in Automation Science, [Beihang University](http://dept3.buaa.edu.cn/)
 
 
 Looking for Ph.D. Students
