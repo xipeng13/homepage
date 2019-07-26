@@ -14,7 +14,7 @@ I am a tenure-track faculty at University of Delaware:
 - **Resident Faculty**, [Data Science Institute](https://dsi.udel.edu/), [University of Delaware](https://www.udel.edu/)
 - **Visiting Professor**, [Department of Computer Science](https://www.cs.rutgers.edu/), [Rutgers University](https://www.rutgers.edu/)
 
-My reserach training background: 
+My eductional background: 
 - Ph.D. in Computer Science, [Rutgers University](https://www.cs.rutgers.edu/)
 - M.S. in Computer Science, [Automation Institute, Chinese Academy of Sciences](http://www.ia.cas.cn/)
 - B.E. in Automation Science, [Beihang University](http://dept3.buaa.edu.cn/)
